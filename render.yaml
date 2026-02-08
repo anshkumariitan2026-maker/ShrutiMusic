@@ -21,7 +21,7 @@ services:
         sync: false
       - key: MONGO_DB_URI
         value: mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION
-      - key: 
+      - key: OWNER_ID
         value: 7574330905
       - key: OWNER_USERNAME
         value: WTF_WhyMeeh
