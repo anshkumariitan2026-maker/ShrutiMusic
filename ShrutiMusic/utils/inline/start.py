@@ -55,8 +55,8 @@ def private_panel(_):
                 callback_data="about_page"
             ),
             InlineKeyboardButton(
-                text=_["S_B_12"],
-                callback_data="owner_page"
+    text=_["S_B_12"],
+    url="tg://openmessage?user_id=8275132868"
             )
         ],
         [
