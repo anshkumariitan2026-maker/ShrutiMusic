@@ -61,7 +61,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-    text="Sᴜᴘᴘᴏʀᴛ",
+    text=_["E_X_1"],
     url="https://t.me/ll_CarelessxCoder_ll"
             ),
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
